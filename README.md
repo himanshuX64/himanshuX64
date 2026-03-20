@@ -6,9 +6,6 @@
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">LinkedIn</a> •
   <a href="m">Email</a>
 </p>
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
