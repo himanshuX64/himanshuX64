@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME">GitHub</a> •
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">LinkedIn</a> •
-  <a href="mailto:yourname@email.com">Email</a>
+  <a href="m">Email</a>
 </p>
 
 ---
