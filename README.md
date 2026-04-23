@@ -14,6 +14,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%8C%8D;UI%2FUX+Craftsman+%F0%9F%8E%A8;Always+Learning%2C+Always+Building+%E2%9A%A1)](https://git.io/typing-svg)
 
+
 ---
 
 </div>
