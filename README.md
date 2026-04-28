@@ -32,6 +32,5 @@ src="https://img.shields.io/github/followers/himanshux64?logo=github&style=for-t
 
 <a href="https://github.com/himanshux64" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshux64&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
+<img width="845" height="603" alt="image" src="https://github.com/user-attachments/assets/2aef95e3-f750-489f-93bf-9ece191162a5" />
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
