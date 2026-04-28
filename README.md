@@ -102,5 +102,5 @@ I'm an Artificial Intelligence and Machine Learning student with a deep curiosit
 ---
 
 <p align="center">
-  <em>"The goal is to turn data into information, and information into insight." — Carly Fiorina</em>
+  <em>"Learning is never cumulative; it is a movement of knowing which has no beginning and no end" —jiddu krishnamurthy </em>
 </p>
