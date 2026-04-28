@@ -94,7 +94,7 @@ I'm an Artificial Intelligence and Machine Learning student with a deep curiosit
   <a href="mailto:himanshukumar51667@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://kaggle.com/himanshux64" target="_blank">
+  <a href="https://kaggle.com/himanshukumar841226" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
 </p>
