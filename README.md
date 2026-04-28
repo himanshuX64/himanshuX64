@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Himanshu 👋</h1>
 
 <p align="center">
-  <em>AI/ML Student &nbsp;|&nbsp; Passionate about Technology & Innovation &nbsp;|&nbsp; Turning Data into Intelligence</em>
+  <em>AI/ML Student &nbsp;|&nbsp; Passionate about Technology,Innovation & Philosophy &nbsp;|&nbsp; Turning Data into Intelligence</em>
 </p>
 
 <p align="center">
@@ -91,7 +91,7 @@ I'm an Artificial Intelligence and Machine Learning student with a deep curiosit
   <a href="https://linkedin.com/in/himanshux64" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:himanshux64@gmail.com">
+  <a href="mailto:himanshukumar51667@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://kaggle.com/himanshux64" target="_blank">
