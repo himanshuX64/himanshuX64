@@ -26,7 +26,7 @@ src="https://img.shields.io/github/followers/himanshux64?logo=github&style=for-t
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/himanshux64"><img src="https://github-readme-stats.vercel.app/api?username=himanshux64&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="himanshux64's GitHub stats" /></a>
+![himanshux64's Stats](https://github-readme-stats.vercel.app/api?username=himanshux64&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 <a href="http://www.github.com/himanshux64"><img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshux64&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
