@@ -12,8 +12,8 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Pacman
-        uses: abozanona/pacman-contribution-graph@main
+      - name: generate-pacman-game-from-github-contribution-grid
+        uses: abozanona/pacman-contribution-graph@v5.0.0
         with:
           github_token: ${{ secrets.PAC_TOKEN }}
           games: pacman
