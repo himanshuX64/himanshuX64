@@ -144,13 +144,12 @@ I'm a **3rd Year AI & Machine Learning student** with a genuine curiosity for ho
 </p>
 
 ---
-## trophy
-[
 
-![trophy](https://github-profile-trophy.vercel.app/?username=himanshux64&theme=nord&column=3&margin-w=15)
+## 🎮 Pacman Contribution Graph
 
-](https://github.com/ryo-ma/github-profile-trophy)
+## 🎮 Pacman Contribution Graph
 
+[![Pacman](https://github.com/himanshux64/himanshux64/blob/output/pacman-contribution-graph.svg)](https://github.com/himanshux64)
 
 ## 📬 Connect With Me
 
