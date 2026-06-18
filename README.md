@@ -147,9 +147,7 @@ I'm a **3rd Year AI & Machine Learning student** with a genuine curiosity for ho
 
 ## 🎮 Pacman Contribution Graph
 
-## 🎮 Pacman Contribution Graph
-
-[![Pacman](https://github.com/himanshux64/himanshux64/blob/output/pacman-contribution-graph.svg)](https://github.com/himanshux64)
+![Pacman](https://raw.githubusercontent.com/himanshux64/himanshux64/output/pacman-contribution-graph.svg)
 
 ## 📬 Connect With Me
 
