@@ -1,23 +1,14 @@
-# Hi 👋, I'm  Himanshu Kumar
+name: Generate Pacman Animation
 
-🎓 AIML Student
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
-💻 Passionate about Machine Learning, Django, and DevOps
+jobs:
+  generate:
+    runs-on: ubuntu-latest
 
-🔧 Skills:
-- Python
-- Django
-- Machine Learning
-- Git & GitHub
-- GitHub Actions
-- CI/CD
-- Linux
-
-🚀 Currently learning:
-- MLOps
-- Cloud Computing
-- Advanced CI/CD Pipelines
-
-📫 Connect with me:
-- LinkedIn: https://linkedin.com/in/himanshux64
-- GitHub: https://github.com/himanshux64
+    steps:
+      - name: Generate Pacman
+        uses: abozanona/pacman-contribution-graph@main
