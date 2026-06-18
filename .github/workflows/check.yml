@@ -5,10 +5,16 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: read
+
 jobs:
   generate:
     runs-on: ubuntu-latest
-
     steps:
       - name: Generate Pacman
         uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_token: ${{ secrets.PAC_TOKEN }}
+          games: pacman
+          player_style: opportunistic
