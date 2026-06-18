@@ -144,6 +144,13 @@ I'm a **3rd Year AI & Machine Learning student** with a genuine curiosity for ho
 </p>
 
 ---
+## trophy
+[
+
+![trophy](https://github-profile-trophy.vercel.app/?username=himanshux64&theme=nord&column=3&margin-w=15)
+
+](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## 📬 Connect With Me
 
