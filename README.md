@@ -130,7 +130,7 @@ I'm a **3rd Year AI & Machine Learning student** with a genuine curiosity for ho
 - 📈 **Kaggle** — Applying competitive ML skills to real-world datasets
 - 🌍 **Open Source** — Contributing to meaningful AI and developer tooling projects
 
----
+<!-- --- -->
 
 ## 📊 GitHub Stats
 
