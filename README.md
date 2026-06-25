@@ -23,8 +23,8 @@
     <img src="https://github-profile-trophy.vercel.app/?username=himanshuX64&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
   </a>
 </p>
-
----
+----
+-
 
 ## 🧑‍💻 About Me
 
