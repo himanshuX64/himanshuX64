@@ -24,8 +24,6 @@
   </a>
 </p>
 ----
--
-
 ## 🧑‍💻 About Me
 
 I'm a **3rd Year AI & Machine Learning student** with a genuine curiosity for how machines learn, reason, and create. My focus has shifted from classical ML toward the frontier of **Generative AI, LLM applications, and intelligent agents** — building systems that don't just predict, but truly *understand* and *act*.
