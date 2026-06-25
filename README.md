@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Himanshu Kumar 👋</h1>
-
 <h3 align="center">
   🤖 AI & ML Student &nbsp;·&nbsp; Generative AI Enthusiast &nbsp;·&nbsp; Building Intelligent Applications
 </h3>
