@@ -18,11 +18,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=himanshuX64&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
-  </a>
-</p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=himanshux64)](https://git.io/streak-stats)
 ----
