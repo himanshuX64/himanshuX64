@@ -18,8 +18,7 @@
   </a>
 </p>
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=himanshux64)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=himanshux64&theme=radical)](https://git.io/streak-stats)
 ----
 ## 🧑‍💻 About Me
 
