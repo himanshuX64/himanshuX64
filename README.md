@@ -134,6 +134,7 @@ I'm a **3rd Year AI & Machine Learning student** with a genuine curiosity for ho
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuX64&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/>
 </p>
+-->
 
 ---
 
@@ -172,7 +173,7 @@ I'm a **3rd Year AI & Machine Learning student** with a genuine curiosity for ho
   </a>
 </p>
 
--
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Let's%20Build%20Something%20Intelligent%20Together&fontSize=16&fontColor=fff&animation=twinkling" />
