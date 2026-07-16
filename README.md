@@ -136,6 +136,14 @@ I'm a **3rd Year AI & Machine Learning student** with a genuine curiosity for ho
 </p>
 -->
 
+## 📈 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
+</div>
+
+
+
 ---
 
 ## My Contribution Graph
