@@ -1,15 +1,12 @@
 <h1 align="center">Hi there, I'm Himanshu Kumar 👋</h1>
 <h3 align="center">
   🤖 AI & ML Student &nbsp;·&nbsp; Generative AI Enthusiast &nbsp;·&nbsp; Building Intelligent Applications
+  
 </h3>
-
 <p align="center">
   <em>"Learning is never cumulative; it is a movement of knowing which has no beginning and no end." — Jiddu Krishnamurti</em>
 </p>
-
-
 <p align="center">
-
   <img src="https://komarev.com/ghpvc/?username=himanshux64&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/himanshux64?label=Followers&style=flat&color=0e75b6" alt="Followers" />
   <a href="https://portfolio-pi-ten-69.vercel.app/" target="_blank">
@@ -19,6 +16,7 @@
     <img src="https://img.shields.io/badge/Medium-Read%20Articles-black?style=flat&logo=medium" alt="Medium" />
   </a>
 </p>
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=himanshux64&theme=radical)](https://git.io/streak-stats)
 ----
