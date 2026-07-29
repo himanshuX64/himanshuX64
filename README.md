@@ -134,6 +134,9 @@ I'm a **3rd Year AI & Machine Learning student** with a genuine curiosity for ho
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuX64&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/>
 </p>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
+
 -->
 ## My Contribution Graph
 
