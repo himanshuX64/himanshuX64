@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm Himanshu Kumar 👋</h1>
 <h3 align="center">
   🤖 AI & ML Student &nbsp;·&nbsp; Generative AI Enthusiast &nbsp;·&nbsp; Building Intelligent Applications
-  
 </h3>
 <p align="center">
   <em>"Learning is never cumulative; it is a movement of knowing which has no beginning and no end." — Jiddu Krishnamurti</em>
