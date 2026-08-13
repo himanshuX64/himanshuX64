@@ -17,7 +17,7 @@
 </p>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=himanshux64&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=himanshux64&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ----
 ## 🧑‍💻 About Me
 
