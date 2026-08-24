@@ -1,141 +1,117 @@
-<h1 align="center">Hi, I'm Himanshu Kumar 👋</h1>
+<div align="center">
 
-<h3 align="center">
-  AI & Machine Learning Student · Generative AI Enthusiast · Building Intelligent Applications
-</h3>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=220&section=header&text=Himanshu%20Kumar&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=AI%20%26%20ML%20Student%20%E2%80%A2%20Generative%20AI%20Builder%20%E2%80%A2%20Full-Stack%20Developer&descSize=17&descAlignY=57&animation=fadeIn)
 
-<p align="center">
-  
-  <em>"Learning is never cumulative; it is a movement of knowing which has no beginning and no end." — Jiddu Krishnamurti</em>
-</p>
+### Building intelligent applications with LLMs, RAG, agents, and modern web technologies
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=himanshux64&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/himanshux64?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" />
-  <a href="https://portfolio-pi-ten-69.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://medium.com/@himanshux64" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-Articles-000000?style=flat&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-pi-ten-69.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshux64)
+[![Resume](https://img.shields.io/badge/Resume-View-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1yGZ26o7WLiyysw6PWk2mlbnqs5TQLeUf/view?usp=drivesdk)
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=himanshux64&label=Profile+Views&color=2563EB&style=flat-square)
+![Followers](https://img.shields.io/github/followers/himanshux64?label=Followers&style=flat-square&color=7C3AED)
 
-## 🧑‍💻 About Me
+</div>
 
-I'm a **3rd-year Artificial Intelligence & Machine Learning student** interested in building practical AI systems that combine machine learning, modern LLMs, retrieval, and intelligent workflows.
+## 👋 About Me
 
-My current focus is on **Generative AI, RAG systems, LLM applications, and AI agents**, while continuing to strengthen my foundations in deep learning, NLP, computer vision, and full-stack development.
+I'm a **third-year Artificial Intelligence & Machine Learning student** focused on turning AI concepts into useful, end-to-end products. I enjoy working at the intersection of **machine learning, large language models, retrieval systems, intelligent workflows, and full-stack development**.
 
-- 🎓 Pursuing a degree in **Artificial Intelligence & Machine Learning**
-- 🔭 Building with **LLMs, RAG pipelines, LangChain, LangGraph, and the MERN stack**
-- 🌱 Learning **AI agent architectures, Django, deep learning, NLP, and computer vision**
-- 🤝 Open to **internships, collaborations, research projects, and open-source opportunities**
-- ✍️ Writing about AI & ML on **[Medium](https://medium.com/@himanshux64)**
-- 📄 View my **[Resume](https://drive.google.com/file/d/1yGZ26o7WLiyysw6PWk2mlbnqs5TQLeUf/view?usp=drivesdk)**
-- 💬 Ask me about **Python, machine learning, LangChain, LangGraph, RAG, and LLM-powered applications**
+- 🔭 Building **LLM applications, RAG pipelines, and agentic workflows**
+- 🌱 Deepening my knowledge of **deep learning, NLP, computer vision, and Django**
+- 🧩 Working with **LangChain, LangGraph, MERN, FastAPI, and Streamlit**
+- ✍️ Sharing AI and ML learnings on **[Medium](https://medium.com/@himanshux64)**
+- 🤝 Open to **internships, collaborations, research projects, and open-source contributions**
+- 💬 Ask me about **Python, ML, RAG, LangChain, LangGraph, and LLM-powered apps**
 - ⚡ Fun fact: My GitHub activity usually spikes near project deadlines
 
----
+> “Learning is never cumulative; it is a movement of knowing which has no beginning and no end.” — Jiddu Krishnamurti
 
-## 🔭 Current Focus
+## 🧭 What I'm Focused On
 
-| Area | What I'm Exploring |
-|------|---------------------|
-| 🤖 **AI Agents** | Multi-step workflows, tool use, orchestration, and agent architectures |
-| 🔍 **RAG Systems** | Retrieval, context injection, vector search, and grounded Q&A |
-| 🧠 **LLM Applications** | Prompting, structured outputs, chaining, and intelligent app workflows |
-| 🌐 **AI Web Apps** | Integrating AI capabilities into Django, MERN, FastAPI, and Streamlit applications |
-| 📚 **Deep Learning** | CNNs, RNNs, LSTMs, transformers, NLP, and computer vision fundamentals |
+| Area | Current Exploration |
+|:--|:--|
+| 🤖 **AI Agents** | Tool use, orchestration, memory, and multi-step workflows |
+| 🔍 **RAG Systems** | Embeddings, vector search, retrieval, context injection, and grounded responses |
+| 🧠 **LLM Engineering** | Prompt design, structured outputs, chaining, evaluation, and reliable AI workflows |
+| 🌐 **AI Web Apps** | Integrating intelligent features into Django, MERN, FastAPI, and Streamlit apps |
+| 👁️ **Deep Learning** | CNNs, RNNs, LSTMs, transformers, NLP, and computer vision |
 
----
+## 🛠️ Technology Toolkit
 
-## 🛠️ Tech Stack
+### Languages
 
-### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### 🤖 AI / ML & Generative AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+### AI, ML & Data
 
-### 📊 Data Science
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
 
-### 🌐 Web Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+### Web & Backend
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-### 🧰 Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### Databases & Developer Tools
 
----
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| 🔢 **Handwritten Digit Classifier** | CNN-based model for classifying handwritten digits from the MNIST dataset | Python, TensorFlow, Keras | ✅ Built |
-| 📝 **AI Notes Summarizer** | LLM-powered application that turns lengthy notes into concise summaries | LangChain, LLMs, Streamlit | ✅ Built |
-| 🤖 **ML Model Comparison** | Benchmarking project for comparing classification algorithms on structured datasets | Scikit-learn, Python, Matplotlib | ✅ Built |
-| 🌐 **MERN Stack Project** | Full-stack web application with AI-assisted features | React, Node.js, Express, MongoDB | 🚧 In Progress |
-| 🧠 **RAG Pipeline** | Retrieval-Augmented Generation system for context-aware question answering | LangChain, LangGraph, ChromaDB | 🚧 In Progress |
+| Project | What It Does | Built With | Status |
+|:--|:--|:--|:--:|
+| 🔢 **Handwritten Digit Classifier** | Uses a convolutional neural network to classify handwritten digits from the MNIST dataset | Python, TensorFlow, Keras | ✅ Built |
+| 📝 **AI Notes Summarizer** | Converts lengthy notes into concise, readable summaries using an LLM-powered workflow | LangChain, LLMs, Streamlit | ✅ Built |
+| 🤖 **ML Model Comparison** | Benchmarks classification algorithms and visualizes their performance on structured datasets | Scikit-learn, Python, Matplotlib | ✅ Built |
+| 🌐 **AI-Assisted MERN App** | Combines a full-stack web experience with intelligent, AI-assisted features | React, Node.js, Express, MongoDB | 🚧 Building |
+| 🧠 **RAG Pipeline** | Retrieves relevant context to produce more grounded, context-aware answers | LangChain, LangGraph, ChromaDB | 🚧 Building |
 
-<p align="center">
-  <a href="https://portfolio-pi-ten-69.vercel.app/"><strong>Explore More Projects →</strong></a>
-</p>
+<div align="center">
 
----
+### [Explore more projects on my portfolio →](https://portfolio-pi-ten-69.vercel.app/)
 
-## 🎯 Goals & Interests
+</div>
 
-- 🧠 **Generative AI & LLMs** — Building useful LLM-powered applications and exploring fine-tuning and prompting techniques
-- 🤖 **AI Agents** — Designing multi-step agent workflows with tools and orchestration frameworks
-- 🔍 **RAG Systems** — Building retrieval-augmented assistants with relevant, grounded context
-- 👁️ **Computer Vision** — Exploring object detection, segmentation, and real-world visual AI applications
-- 📈 **Kaggle** — Applying machine learning skills to practical datasets and competitions
-- 🌍 **Open Source** — Contributing to AI, ML, and developer-focused projects
+## 📊 GitHub Snapshot
 
----
+<div align="center">
 
-## 🔥 GitHub Activity
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=himanshux64&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Himanshu's GitHub statistics" />
+<img width="49%" src="https://streak-stats.demolab.com?user=himanshux64&theme=tokyonight&hide_border=true" alt="Himanshu's GitHub streak" />
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=himanshux64&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshux64&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
+
+</div>
 
 ### 🕹️ Contribution Graph
 
@@ -145,40 +121,19 @@ My current focus is on **Generative AI, RAG systems, LLM applications, and AI ag
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/himanshux64/himanshux64/output/pacman-contribution-graph.svg">
 </picture>
 
----
+## 🤝 Let's Connect
 
-## 📬 Connect With Me
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/himanshux64" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:himanshukumar51667@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://medium.com/@himanshux64" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://kaggle.com/himanshukumar841226" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-  <a href="https://leetcode.com/himanshux64" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://github.com/himanshux64" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://portfolio-pi-ten-69.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshux64)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshukumar51667@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@himanshux64)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/himanshukumar841226)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/himanshux64)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himanshux64)
 
----
+### 💡 Learning continuously. Building thoughtfully. Creating intelligent software.
 
-<p align="center">
-  <strong>💡 Learning, building, and exploring the future of intelligent software.</strong>
-</p>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:0F172A&height=120&section=footer)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Let's%20Build%20Something%20Intelligent%20Together&fontSize=16&fontColor=fff&animation=twinkling" alt="Footer banner" />
-</p>
+</div>
