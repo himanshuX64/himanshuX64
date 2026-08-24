@@ -1,6 +1,5 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,20,24&amp;height=220&amp;section=header&amp;text=Himanshu%20Kumar&amp;fontSize=48&amp;fontColor=FFFFFF&amp;fontAlignY=36&amp;desc=AI%20%26%20ML%20Student%20%E2%80%A2%20Generative%20AI%20Builder%20%E2%80%A2%20Full-Stack%20Developer&amp;descSize=17&amp;descAlignY=57&amp;animation=fadeIn" alt="Himanshu Kumar — AI and Machine Learning Student" />
+<h1>Hi, I'm Himanshu Kumar 👋</h1>
+<h3>AI &amp; ML Student • Generative AI Builder • Full-Stack Developer</h3>
 
 ### Building intelligent applications with LLMs, RAG, agents, and modern web technologies
 
