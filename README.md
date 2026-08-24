@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=220&section=header&text=Himanshu%20Kumar&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=AI%20%26%20ML%20Student%20%E2%80%A2%20Generative%20AI%20Builder%20%E2%80%A2%20Full-Stack%20Developer&descSize=17&descAlignY=57&animation=fadeIn)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,20,24&amp;height=220&amp;section=header&amp;text=Himanshu%20Kumar&amp;fontSize=48&amp;fontColor=FFFFFF&amp;fontAlignY=36&amp;desc=AI%20%26%20ML%20Student%20%E2%80%A2%20Generative%20AI%20Builder%20%E2%80%A2%20Full-Stack%20Developer&amp;descSize=17&amp;descAlignY=57&amp;animation=fadeIn" alt="Himanshu Kumar — AI and Machine Learning Student" />
 
 ### Building intelligent applications with LLMs, RAG, agents, and modern web technologies
 
@@ -140,6 +140,6 @@ I'm a **third-year Artificial Intelligence & Machine Learning student** focused 
 
 ### 💡 Learning continuously. Building thoughtfully. Creating intelligent software.
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:0F172A&height=120&section=footer)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=24,20,12&amp;height=120&amp;section=footer" alt="Profile footer" />
 
 </div>
