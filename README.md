@@ -103,20 +103,30 @@ I'm a **third-year Artificial Intelligence & Machine Learning student** focused 
 
 ## 📊 GitHub Snapshot
 
-<p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=himanshux64)](https://git.io/streak-stats)
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=himanshux64&theme=tokyonight" alt="Himanshu Kumar's GitHub statistics" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himanshux64&theme=tokyonight" alt="Himanshu Kumar's repositories by language" />
-</p>
+<a href="https://git.io/streak-stats">
+  <img
+    src="https://streak-stats.demolab.com?user=himanshux64&theme=tokyonight&hide_border=true&border_radius=10"
+    alt="Himanshu Kumar's GitHub Streak"
+  />
+</a>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=himanshux64&theme=tokyonight&hide_border=true" alt="Himanshu Kumar's GitHub contribution streak" />
-  </a>
-</p>
+<br/><br/>
+
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=himanshux64&theme=tokyonight"
+  alt="Himanshu Kumar's GitHub statistics"
+/>
+
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himanshux64&theme=tokyonight"
+  alt="Himanshu Kumar's repositories by language"
+/>
+
+</div>
 
 ### 🕹️ Contribution Graph
 
