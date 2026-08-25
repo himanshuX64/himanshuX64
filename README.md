@@ -104,7 +104,7 @@ I'm a **third-year Artificial Intelligence & Machine Learning student** focused 
 ## 📊 GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshux64&theme=tokyonight" alt="Himanshu Kumar's GitHub profile details" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=himanshux64)](https://git.io/streak-stats)
 </p>
 
 <p align="center">
