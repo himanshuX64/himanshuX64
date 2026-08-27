@@ -106,11 +106,10 @@ I'm a **third-year Artificial Intelligence & Machine Learning student** focused 
 <div align="center">
 
 <a href="https://git.io/streak-stats">
-  <img
-    src="https://streak-stats.demolab.com?user=himanshux64&theme=tokyonight&hide_border=true&border_radius=10"
-    alt="Himanshu Kumar's GitHub Streak"
+  <img src="https://streak-stats.demolab.com?user=himanshux64&theme=dark&hide_border=true" alt="himanshux64's GitHub Stats" />
   />
 </a>
+
 
 <br/><br/>
 
